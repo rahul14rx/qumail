@@ -1,0 +1,63 @@
+{
+  "messages": [
+    {
+      "id": "hppWNl2QjTZGo9m-9JED1",
+      "from": "rahulcr7",
+      "to": "rdrahul2005@gmail.com",
+      "subject": "Testing , Redirection",
+      "body": "Testing if the process works",
+      "cipher": null,
+      "meta": {},
+      "createdAt": "2025-12-22T08:22:09.812Z",
+      "readAt": null
+    },
+    {
+      "id": "Ejx6FNNcAghan-cH21fyf",
+      "from": "rahulrdr",
+      "to": "rahulcr7",
+      "subject": "Test-1",
+      "body": "Testing the process if it works",
+      "cipher": null,
+      "meta": {},
+      "createdAt": "2025-12-22T08:26:14.095Z",
+      "readAt": null
+    },
+    {
+      "id": "ezIpAxyLk5r6VkwBTtkLg",
+      "from": "rahulcr7",
+      "to": "rahulrdr",
+      "subject": "regarding rahul",
+      "body": "Rahul is the goatest of all goats and the undisputed champion in football. He is better than Ronaldo and messi",
+      "cipher": null,
+      "meta": {},
+      "createdAt": "2025-12-22T08:39:47.962Z",
+      "readAt": null
+    }
+  ],
+  "users": [
+    {
+      "id": "j8AF09tJo9y-gL_wfTO0D",
+      "name": "Rahul",
+      "username": "rahulrdr",
+      "email": "rdrahul2005@gmail.com",
+      "passwordHash": "$2b$10$GarcpgrCjrgvC6mJ5k.kSOFeSyTyKuqT.IBX5YQY9/xrYMXI.OlLi",
+      "createdAt": "2025-12-19T08:27:23.021Z"
+    },
+    {
+      "id": "sIO5WkTBuUNg5pFG1S6c-",
+      "name": "new_gen",
+      "username": "newgen",
+      "email": "newgen@gmail.com",
+      "passwordHash": "$2b$10$D2YOHzP8PbB6Ez.DznznJ.qtv7Ci1hXRmhtnIBCAM8yBEjWxCr6Dy",
+      "createdAt": "2025-12-22T05:12:12.704Z"
+    },
+    {
+      "id": "35ImFLztcvB0ApERCpInk",
+      "name": "Rahul M",
+      "username": "rahulcr7",
+      "email": "rahulmanoharan1808@gmail.com",
+      "passwordHash": "$2b$10$JIFXgWoE6Gnz0YbOZnMdCulTVQWuJP86PZo6xuFPtD9Ze02IU7AvW",
+      "createdAt": "2025-12-22T08:21:08.846Z"
+    }
+  ]
+}

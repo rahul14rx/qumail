@@ -1,0 +1,7 @@
+{
+  "watch": ["server.js"],
+  "ignore": ["data/**", "*.db", "*.sqlite", "*.log", "node_modules/**", "mail-db.json"],
+  "ext": "js,json",
+  "delay": "200",
+  "legacyWatch": true
+}
